@@ -1,0 +1,14 @@
+{
+    "bug": {
+        "prefix": "#bugnote",
+        "body": [
+            "## ${1:title} ${2:FIXED}\n",
+            "- Author: ${3:ZeroVoid}",
+            "- Data: $CURRENT_YEAR/$CURRENT_MONTH/$CURRENT_DATE $CURRENT_DAY_NAME_SHORT\n",
+            "### ${4:Bug描述}\n",
+            "${5:More}",
+            "\n### ${6:解决方法}\n",
+            "${7:How to}"
+        ]
+    }
+}
