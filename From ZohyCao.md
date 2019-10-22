@@ -4,7 +4,7 @@
 > [ STM32学习笔记 ](https://zhuanlan.zhihu.com/p/64348776)
 
 
-## vscode下markdown的snippets FIXED
+## vscode下markdown的snippets配置 FIXED
 
 - Author: ZohyCao
 - Data: 2019/10/22 周二
