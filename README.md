@@ -1,6 +1,10 @@
 # DebugNote
 
-[toc]
+[No Bug in BUPT](#no-bug-in-bupt)
+
+[Markdown 简单使用](#markdown-%e7%ae%80%e5%8d%95%e4%bd%bf%e7%94%a8)
+
+[VSCode Markdown 插件](#vscode-markdonw-%e6%8f%92%e4%bb%b6)
 
 ## No Bug in BUPT
 
