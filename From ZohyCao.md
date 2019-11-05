@@ -15,7 +15,7 @@ vscode配置了markdown的snippets后无法使用
 ### 解决方法
 
 在用户配置中添加如下配置：
-```
+``` c
 "[markdown]": {
     "editor.formatOnSave": true,
     "editor.renderWhitespace": "all",
