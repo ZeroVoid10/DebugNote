@@ -15,7 +15,8 @@ vscode配置了markdown的snippets后无法使用
 ### 解决方法
 
 在用户配置中添加如下配置：
-> "[markdown]": {
+```
+"[markdown]": {
     "editor.formatOnSave": true,
     "editor.renderWhitespace": "all",
     "editor.quickSuggestions": {
@@ -25,7 +26,7 @@ vscode配置了markdown的snippets后无法使用
     },
     "editor.acceptSuggestionOnEnter": "on"
 }
-
+```
 
 ---
 ## STM32驱动LCD屏幕 FIXED
